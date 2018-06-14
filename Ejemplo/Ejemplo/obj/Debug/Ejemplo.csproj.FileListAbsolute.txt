@@ -1,0 +1,16 @@
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Dificultad.resources
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Informacion.resources
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Dificil.resources
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Facil.resources
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Respuestas.resources
+C:\Users\adria\source\repos\Ejemplo\Ejemplo\obj\Debug\Ejemplo.respuestasd.resources
